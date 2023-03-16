@@ -1,0 +1,10 @@
+[
+  {
+    "package": "bullwhipgame",
+    "oncran": true
+  },
+  {
+    "package": "SCperf",
+    "oncran": true
+  }
+]
