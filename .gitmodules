@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bullwhipgame"]
-	path = bullwhipgame
-	url = https://github.com/msmarchena/bullwhipgame
 [submodule "SCperf"]
 	path = SCperf
 	url = https://github.com/msmarchena/scperf
+[submodule "bullwhipgame"]
+	path = bullwhipgame
+	url = https://github.com/msmarchena/bullwhipgame
